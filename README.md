@@ -9,3 +9,5 @@ Se instalo C++ y C
 Se verifico la version de C++ en la extensiones
 <img width="427" height="777" alt="image" src="https://github.com/user-attachments/assets/e0d23942-37ee-4636-9654-1cf778c64e4b" />
 
+se creo un repositorio en Github donde se adjunto las capturas de las evidencias 
+<img width="1917" height="1111" alt="image" src="https://github.com/user-attachments/assets/68d56a88-34c8-4992-844b-88cab9813ac6" />
